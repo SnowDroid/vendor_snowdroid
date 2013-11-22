@@ -1,0 +1,3 @@
+# Custom ROM init
+
+import /init.superuser.rc
