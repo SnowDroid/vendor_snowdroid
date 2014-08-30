@@ -11,3 +11,5 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     Superuser\
     su
+
+BUILD_MODVERSION := "0.1"
