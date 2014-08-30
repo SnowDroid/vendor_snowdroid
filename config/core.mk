@@ -12,4 +12,8 @@ PRODUCT_PACKAGES += \
     Superuser\
     su
 
+# Include overlays
+PRODUCT_PACKAGE_OVERLAYS += \
+    vendor/SnowDroid/overlay/common
+
 BUILD_MODVERSION := "0.1"
